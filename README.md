@@ -1,8 +1,36 @@
-# React + Vite
+<h1 align="center">React Admin Dashboard</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Demo App](/public/overview.png)
+![Demo App](/public/products.png)
+![Demo App](/public/users.png)
+![Demo App](/public/sales.png)
+![Demo App](/public/orders.png)
+![Demo App](/public/analytics.png)
+![Demo App](/public/settings.png)
 
-Currently, two official plugins are available:
+### Techstack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React
+- Tailwind CSS
+- Recharts
+- Framer Motion
+
+### Build Tool
+
+- Vite
+
+### Package Manager
+
+- Yarn
+
+It is completely responsive and can be used for any type of web application.
+
+### Run this app locally
+
+```shell
+yarn
+```
+
+```shell
+yarn dev
+```
